@@ -1,3 +1,4 @@
+<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 <h1 align="center">Hi 👋, I'm Gaurav Bhandarkar</h1>
 <h3 align="center">Student at IIIT, Nagpur🌟.</h3>
 
@@ -68,7 +69,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
     <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" 
+    <i class="devicon-nextjs-plain" 
          alt="next.js" width="40" height="40" /> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
