@@ -110,5 +110,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&" alt="DracoCoder" /></p>
 
-------------------------------------------------------------------------------------------------------------------------------------------
+<hr>
 [DracoCoder](https://github.com/DracoCoder)
