@@ -77,12 +77,8 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="dart"
       width="40" height="40" /> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/blob/develop/assets/readme/nodedotjs-white.svg"
       alt="nodejs" width="40" height="40" /> </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-      alt="pandas" width="40" height="40" /> </a> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter"
       width="40" height="40" /> </a> 
