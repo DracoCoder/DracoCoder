@@ -77,7 +77,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="dart"
       width="40" height="40" /> </a> 
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/blob/develop/assets/readme/nodedotjs-white.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
       alt="nodejs" width="40" height="40" /> </a> 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter"
