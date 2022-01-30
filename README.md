@@ -26,7 +26,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Gaurav Bhandarkar" height="30" width="40" /></a>
   <a href="https://www.gaurav.works" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/StaticSiteGenerators/nextjs.svg"
+      src="https://icons8.com/icon/yWjNJhmExOYA/website"
       alt="adam pithen wala" height="30" width="40" /></a>
   <a href="https://instagram.com/gauravb_07" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
