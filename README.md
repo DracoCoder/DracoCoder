@@ -1,4 +1,3 @@
-<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 <h1 align="center">Hi 👋, I'm Gaurav Bhandarkar</h1>
 <h3 align="center">Student at IIIT, Nagpur🌟.</h3>
 
@@ -69,7 +68,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> 
     <a href="https://nextjs.org" target="_blank" rel="noreferrer">
-    <i class="devicon-nextjs-plain" 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
          alt="next.js" width="40" height="40" /> </a> 
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -93,19 +92,19 @@
 
 <br>
 
+<hr>
+
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&show_icons=true&locale=en&layout=compact"
-    alt="DracoCoder" /></p>
+<p>
+<img align="center"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&show_icons=true&locale=en&layout=compact"
+alt="DracoCoder" />
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DracoCoder&show_icons=true&locale=en"
-    alt="DracoCoder" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&" alt="DracoCoder" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DracoCoder&show_icons=true&locale=en"
+alt="DracoCoder" />
+    
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&" alt="DracoCoder" />
+</p>
 
 <hr>
-[DracoCoder](https://github.com/DracoCoder)
+
