@@ -55,6 +55,9 @@
       width="40" height="40" /> </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="dart"
+      width="40" height="40" /> </a>
+    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="electron"
       width="40" height="40" /> </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
