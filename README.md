@@ -103,16 +103,16 @@
 <h3>Statistical Data :-</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&show_icons=true&locale=en" alt="DracoCoder" />
+<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&show_icons=true&locale=en&layout=compact&ring=red" alt="DracoCoder" />
 </p>
 
 <p align="center">
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&show_icons=true&locale=en&layout=compact" alt="DracoCoder" />
+src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&show_icons=true&locale=en&layout=compact&color=red" alt="DracoCoder" />
 </p>
 
 <p align="center">    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&" alt="DracoCoder" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&show_icons=true&layout=compact&fire=purple&ring=red&currStreakLabel=black&hide_border=true" alt="DracoCoder" />
 </p>
 
 -------------------------------------------------------------------------------
