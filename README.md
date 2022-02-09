@@ -19,6 +19,7 @@
 - ⚡ Fun fact :- food and anime are the reasons to live.
 
 <br>
+<hr size="1px" width="120px" noshade>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -98,7 +99,7 @@
 
 <br>
 
-<hr>
+<hr size="1px" width="150px" noshade>
 
 <h3>Statistical Data :-</h3>
 
