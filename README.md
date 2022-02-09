@@ -99,7 +99,7 @@
 
 <br>
 
-<hr size="1px" width="150px" noshade>
+<hr size="1px" width="120px" noshade>
 
 <h3>Statistical Data :-</h3>
 
