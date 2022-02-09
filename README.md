@@ -114,6 +114,3 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&sh
 <p align="center">    
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&show_icons=true&layout=compact&fire=purple&ring=red&currStreakLabel=black&hide_border=true" alt="DracoCoder" />
 </p>
-
--------------------------------------------------------------------------------
-
