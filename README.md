@@ -105,11 +105,12 @@
 <h3>Statistical Data :-</h3>
 
 <p align="center">    
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="30%"/>   
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&count_private=true&theme=radical&show_icons=true&border_color=white" alt="DracoCoder" width="30%"/>   
 </p>
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true&border_color=white" alt="DracoCoder" width="45%"/>
     ㅤ
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="45%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&count_private=true&theme=radical&show_icons=true&border=FFFFFF" alt="DracoCoder" width="45%" />
 </p>
+
