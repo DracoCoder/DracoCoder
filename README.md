@@ -9,14 +9,16 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height="400" width="400"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-svg" height="400" width="400"/></p>
 
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Web Development and exploring data science
 
 - 📫 How to reach me **gauravbhandarkar94@gmail.com**
 
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact :- We were on a Break!!.
+
+- 📃 <a href="https://drive.google.com/file/d/1WYXrb0foX2W6POV1tLi8SzHQYDhAlVuM/view?usp=sharing" target="blank">**My Resume**</a>
 
 <br>
 <hr size="1px" width="120px" noshade>
