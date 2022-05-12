@@ -12,11 +12,11 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding-svg" height="400" width="400"/></p>
 
 
-- 🌱 I’m currently learning Web Development and exploring data science
+- 🌱 I’m currently learning Web Development and digging into data analytics
 
-- 📫 How to reach me **gauravbhandarkar94@gmail.com**
+- 📫 You can reach me at **gauravbhandarkar94@gmail.com**
 
-- ⚡ Fun fact :- We were on a Break!!.
+<!-- - ⚡ Fun fact :- We were on a Break!! -->
 
 - 📃 <a href="https://drive.google.com/file/d/1WYXrb0foX2W6POV1tLi8SzHQYDhAlVuM/view?usp=sharing" target="blank">**My Resume**</a>
 
@@ -87,9 +87,6 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a>
-    <a href="https://www.r-project.org" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg"
-      alt="react" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
