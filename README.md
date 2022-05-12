@@ -107,9 +107,9 @@
 <p float="center">
     
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="45%"/>
     ㅤ
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&count_private=true&theme=radical&show_icons=true" alt="DracoCoder" width="45%" />
 </p>
 
 </p>
