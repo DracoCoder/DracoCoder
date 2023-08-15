@@ -1,5 +1,6 @@
 <h1 align="center">Hi😄, I'm Gaurav Bhandarkar</h1>
-<h3 align="center">Student at IIIT, Nagpur🌟</h3>
+<h3 align="center">Data Scientist🔭</h3>
+<h3 align="center">CSE@IIIT, Nagpur🏫</h3>
 
 <br>
 
