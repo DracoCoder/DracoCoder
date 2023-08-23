@@ -19,8 +19,6 @@
 
 <!-- - ⚡ Fun fact :- We were on a Break!! -->
 
-- 📃 <a href="https://drive.google.com/file/d/1WYXrb0foX2W6POV1tLi8SzHQYDhAlVuM/view?usp=sharing" target="blank">**My Resume**</a>
-
 <br>
 <hr size="1px" width="120px" noshade>
 
