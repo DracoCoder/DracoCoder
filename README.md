@@ -36,7 +36,6 @@
 |---|---|---|
 | **Finnulate AI** | Regulatory compliance intelligence platform — automated ingestion from RBI, SEBI, IRDAI with LLM extraction pipelines, reducing manual review by 70% | AWS Lambda, S3, LLMs, Tool-calling APIs |
 | **DRCFO** | Healthcare AI platform converting doctor-patient conversations to structured clinical docs — cut documentation time from ~10 mins to seconds | AWS Lambda, Gemini 1.5, ABDM-certified |
-| **Growhut ETL** | Scalable web scraping & LLM pipelines for automated data processing — reduced API costs by 38% | Selenium, OpenAI APIs, AWS, EventBridge |
 | **Whisper Fine-tuning** | ASR fine-tuning on 8 Indian languages — reduced WER from 108 → 26 | OpenAI Whisper, HuggingFace |
 
 ---
@@ -64,13 +63,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true&border_color=white" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true&hide_border=true" width="47%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoCoder&theme=radical&border=FFFFFF" width="47%" />
+  <img src="https://streak-stats.demolab.com?user=DracoCoder&theme=radical&hide_border=true" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&count_private=true&theme=radical&show_icons=true&border_color=white&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&count_private=true&theme=radical&show_icons=true&hide_border=true&layout=compact" width="40%" />
 </p>
 
 ---
