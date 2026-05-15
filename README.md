@@ -60,18 +60,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DracoCoder&count_private=true&theme=radical&show_icons=true&hide_border=true" width="47%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com?user=DracoCoder&theme=radical&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DracoCoder&count_private=true&theme=radical&show_icons=true&hide_border=true&layout=compact" width="40%" />
-</p>
-
----
-
 <p align="center"><i>Currently open to Werkstudent / part-time roles in Data Science & AI in Germany 🇩🇪</i></p>
